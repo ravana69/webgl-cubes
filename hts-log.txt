@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Jun 2022 17:02:44 at https://alteredqualia.com/three/examples/webgl_cubes.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://alteredqualia.com/three/examples/webgl_cubes.html -O1 "C:\My Web Sites\webgl cubes" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:02:48	Warning: 	Note: due to https://alteredqualia.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+17:03:06	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/mrdoob/three.js/sponsor_button
+17:03:40	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/mrdoob/three.js/hovercards/citation/sidebar_partial?tree_name=dev
+17:03:42	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/mrdoob/three.js/used_by_list
+17:06:09	Error: 	Exit requested by shell or user
+17:06:10	Warning: 	File not added due to mirror cancel: https://github.com/canozmen/three.js
+17:06:11	Error: 	"Not Found" (404) at link https://github.com/mrdoob/three.js/security/overall-count (from https://github.com/mrdoob/three.js)
+17:06:11	Error: 	"Not Found" (404) at link https://github.com/mrdoob/three.js/tree/{{ urlEncodedRefName }} (from https://github.com/mrdoob/three.js)
+17:06:11	Error: 	"Not Found" (404) at link https://github.com/mrdoob/three.js/branches (from https://github.com/mrdoob/three.js)
+17:06:11	Error: 	"Not Found" (404) at link https://github.com/mrdoob/three.js/code_menu_contents/dev (from https://github.com/mrdoob/three.js)
+17:06:11	Warning: 	Link https://github.com/mrdoob/three.js/commit/de17358232c3cc45bb2df0a5a64068cbcdeaa2f8 not scanned (follow robots meta tag)
+17:06:12	Warning: 	Link https://github.com/mrdoob/three.js/pull/24207 not scanned (follow robots meta tag)
+17:06:12	Warning: 	Link https://github.com/mrdoob/three.js/tree/de17358232c3cc45bb2df0a5a64068cbcdeaa2f8 not scanned (follow robots meta tag)
+17:06:15	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
